@@ -1,2 +1,2 @@
-# xinghuo-demo
-星火跃迁计划演示页面
+# xinetraning-demo
+新鹅跃迁计划演示页面
